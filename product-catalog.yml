@@ -9,4 +9,4 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-message: This is the catalog of all products.
+message: catalog of all products.
