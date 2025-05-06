@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/intuitdb
+    username: root
+    password: root
+
+#jpa properties
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+message: This is a product inventory service.   
